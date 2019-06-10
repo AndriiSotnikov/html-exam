@@ -74,6 +74,9 @@
     color: #2F4F4F;
 }
 
+.person:hover {
+    background: #EEEEEE;}
+
 .extra {
     visibility: hidden;
 }
